@@ -1,5 +1,10 @@
 :root {
-    --primary-color: #4394db;
+    --primary-color: #d11da7;
+    --secundary-color: #9b3514;
+    --background-color: #3917bf;
+    --button-color: #1f7d25;
+    --box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
+
 
 
 }
